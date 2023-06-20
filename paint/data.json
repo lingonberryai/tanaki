@@ -9,8 +9,8 @@
   {
     "title": "Medieval",
     "description": "Mid evil magic by Alex",
-    "previewImage": "https://url.com/image.png",
-    "brushImage": "https://url.com/image.png",
+    "previewImage": "/paint/images/preview.medieval.png",
+    "brushImage": "/paint/images/brush.medieval.png",
     "glifId": "cli4wb5c60008l508o5zfxxz6"
   }
 ]
