@@ -3,7 +3,7 @@
     "title": "Classic",
     "description": "It's classic but also full of surprises",
     "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.spiderverse.png",
+    "brushImage": "/paint/images/brush.classic.png",
     "glifId": "clju3xg3a0008ml0876rogr3v"
   },
   {
@@ -38,7 +38,7 @@
     "title": "Shrekify",
     "description": "Matcha colored ogre energy", 
     "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.spiderverse.png",
+    "brushImage": "/paint/images/brush.shrekify.png",
     "glifId": "cljul1nbh0006mn088haew3mh"
   }
 ]
