@@ -1,5 +1,12 @@
 [
   {
+    "title": "Classic",
+    "description": "It's classic but also full of surprises",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.spiderverse.png",
+    "glifId": "clju3xg3a0008ml0876rogr3v"
+  },
+  {
     "title": "Spiderverse",
     "description": "Amazing Multiverse Arachnid Juice",
     "previewImage": "/paint/images/preview.spiderverse.png",
@@ -21,10 +28,10 @@
     "glifId": "clgh1vxtu0011mo081dplq3xs"
   },
   {
-    "title": "Animal Knights",
-    "description": "Amazing Multiverse Arachnid Juice",
+    "title": "Shrekify",
+    "description": "Matcha colored ogre energy", 
     "previewImage": "/paint/images/preview.spiderverse.png",
     "brushImage": "/paint/images/brush.spiderverse.png",
-    "glifId": "clfmem96n0000mh08o9wg7wnr"
+    "glifId": "cljul1nbh0006mn088haew3mh"
   }
 ]
