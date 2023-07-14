@@ -4,7 +4,8 @@
     "description": "It's classic but also full of surprises",
     "previewImage": "/paint/images/preview.spiderverse.png",
     "brushImage": "/paint/images/brush.classic.png",
-    "glifId": "clju3xg3a0008ml0876rogr3v"
+    "glifId": "clju3xg3a0008ml0876rogr3v",
+    "featured": true
   },
   {
     "title": "Spiderverse",
@@ -40,5 +41,12 @@
     "previewImage": "/paint/images/preview.spiderverse.png",
     "brushImage": "/paint/images/brush.shrekify.png",
     "glifId": "cljul1nbh0006mn088haew3mh"
+  },
+  {
+    "title": "Hypebeast",
+    "description": "What kinda kicks you want?", 
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.shrekify.png",
+    "glifId": "clk2iknow000omu08p89m5mux"
   }
 ]
