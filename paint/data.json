@@ -7,6 +7,13 @@
     "glifId": "clj3jm9il0000jx083oyk0jz1"
   },
   {
+    "title": "Pokémon Maker",
+    "description": "who dat pokemon?",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.pokemon.png",
+    "glifId": "clgcdxxim0000l4081dvtegoy"
+  },
+  {
     "title": "Noir",
     "description": "Dark and Stormy",
     "previewImage": "/paint/images/preview.spiderverse.png",
@@ -41,12 +48,6 @@
     "previewImage": "/paint/images/preview.spiderverse.png",
     "brushImage": "/paint/images/brush.shrekify.png",
     "glifId": "cljul1nbh0006mn088haew3mh"
-  },
-  {
-    "title": "Hypebeast",
-    "description": "What kinda kicks you want?",
-    "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.hypebeast.png",
-    "glifId": "clk2iknow000omu08p89m5mux"
   }
+
 ]
