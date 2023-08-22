@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Classic",
+    "description": "It's classic but also full of surprises",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.classic.png",
+    "glifId": "clju3xg3a0008ml0876rogr3v",
+    "featured": true
+  },
+  {
+    "title": "Trippy",
+    "description": "Amazing Multiverse Arachnid Juice",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.trippy.png",
+    "glifId": "cllmnyseu0000l80ftt8u6k5o"
+  },
+  {
+    "title": "Finger Paint",
+    "description": "Amazing Multiverse Arachnid Juice",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.trippy.png",
+    "glifId": "cllmo2oed001uju0fgni9aqfi"
+  },
+  {
+    "title": "Hand Sketch",
+    "description": "Amazing Multiverse Arachnid Juice",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.trippy.png",
+    "glifId": "cllmo93z30021ju0f5nvm499f"
+  },
+  {
+    "title": "Crayon",
+    "description": "Amazing Multiverse Arachnid Juice",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.trippy.png",
+    "glifId": "cllmochoy000wl30fsr2fivse"
+  },
+  {
+    "title": "Caveman",
+    "description": "Amazing Multiverse Arachnid Juice",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.trippy.png",
+    "glifId": "cllmoha2d0007l80fdqcj1skb"
+  },
+  {
+    "title": "Ye Ole Times",
+    "description": "Amazing Multiverse Arachnid Juice",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.trippy.png",
+    "glifId": "cllmojhqg002iju0fvmrt2mvb"
+  }
+
+
+]
