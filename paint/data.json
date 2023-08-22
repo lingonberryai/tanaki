@@ -1,32 +1,32 @@
 [
   {
-    "title": "Classic",
-    "description": "It's classic but also full of surprises",
-    "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.classic.png",
-    "glifId": "clju3xg3a0008ml0876rogr3v",
-    "featured": true
-  },
-  {
-    "title": "Spiderverse",
+    "title": "Spider-Verse",
     "description": "Amazing Multiverse Arachnid Juice",
     "previewImage": "/paint/images/preview.spiderverse.png",
     "brushImage": "/paint/images/brush.spiderverse.png",
     "glifId": "clj3jm9il0000jx083oyk0jz1"
   },
   {
-    "title": "Medieval Ruler",
-    "description": "hark!",
+    "title": "Pokémon Maker",
+    "description": "who dat pokémon?",
     "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.medieval.png",
-    "glifId": "clf8eic5w001xnr7d133t61m1"
+    "brushImage": "/paint/images/brush.pokemon.png",
+    "glifId": "clgcdxxim0000l4081dvtegoy"
   },
   {
-    "title": "Remix Tanaki",
-    "description": "Try on different vibes",
+    "title": "Noir",
+    "description": "Dark and Stormy",
     "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.tanaki-remix.png",
-    "glifId": "cljw3rb9y0000l208s01i3czf"
+    "brushImage": "/paint/images/brush.noir.png",
+    "glifId": "clkd4r1470000jj08ach09yog"
+  },
+  {
+    "title": "Classic",
+    "description": "It's classic but also full of surprises",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.classic.png",
+    "glifId": "clju3xg3a0008ml0876rogr3v",
+    "featured": true
   },
   {
     "title": "Heavy Metal",
@@ -37,16 +37,10 @@
   },
   {
     "title": "Shrekify",
-    "description": "Matcha colored ogre energy", 
+    "description": "Matcha colored ogre energy",
     "previewImage": "/paint/images/preview.spiderverse.png",
     "brushImage": "/paint/images/brush.shrekify.png",
     "glifId": "cljul1nbh0006mn088haew3mh"
-  },
-  {
-    "title": "Hypebeast",
-    "description": "What kinda kicks you want?", 
-    "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.hypebeast.png",
-    "glifId": "clk2iknow000omu08p89m5mux"
   }
+
 ]
