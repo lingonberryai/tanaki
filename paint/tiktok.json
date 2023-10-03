@@ -1,5 +1,13 @@
 [
   {
+    "title": "SCP",
+    "description": "It's classic but also full of surprises",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.scp.png",
+    "glifId": "clnaw5gzo001cmh0fx9rozwq7",
+    "featured": true
+  },
+  {
     "title": "Classic",
     "description": "It's classic but also full of surprises",
     "previewImage": "/paint/images/preview.spiderverse.png",
