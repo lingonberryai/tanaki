@@ -4,7 +4,8 @@
     "description": "It's classic but also full of surprises",
     "previewImage": "/paint/images/preview.spiderverse.png",
     "brushImage": "/paint/images/brush.classic.png",
-    "glifId": "clju3xg3a0008ml0876rogr3v"
+    "glifId": "clju3xg3a0008ml0876rogr3v",
+    "featured": true
   },
   {
     "title": "Trippy",
@@ -14,11 +15,11 @@
     "glifId": "cllmnyseu0000l80ftt8u6k5o"
   },
   {
-    "title": "SCP",
+    "title": "Finger Paint",
     "description": "Amazing Multiverse Arachnid Juice",
     "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.scp.png",
-    "glifId": "clnaw5gzo001cmh0fx9rozwq7"
+    "brushImage": "/paint/images/brush.finger-paint.png",
+    "glifId": "cllmo2oed001uju0fgni9aqfi"
   },
   {
     "title": "Hand Sketch",
