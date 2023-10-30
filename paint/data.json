@@ -1,5 +1,13 @@
 [
   {
+    "title": "Classic",
+    "description": "It's classic but also full of surprises",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.classic.png",
+    "glifId": "clju3xg3a0008ml0876rogr3v",
+    "featured": true
+  },
+  {
     "title": "Spider-Verse",
     "description": "Amazing Multiverse Arachnid Juice",
     "previewImage": "/paint/images/preview.spiderverse.png",
@@ -9,24 +17,9 @@
   {
     "title": "Pokémon Maker",
     "description": "who dat pokémon?",
-    "previewImage": "/paint/images/preview.spiderverse.png",
+    "previewImage": "/paint/images/preview.pokemon.png",
     "brushImage": "/paint/images/brush.pokemon.png",
     "glifId": "clgcdxxim0000l4081dvtegoy"
-  },
-  {
-    "title": "Noir",
-    "description": "Dark and Stormy",
-    "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.noir.png",
-    "glifId": "clkd4r1470000jj08ach09yog"
-  },
-  {
-    "title": "Classic",
-    "description": "It's classic but also full of surprises",
-    "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.classic.png",
-    "glifId": "clju3xg3a0008ml0876rogr3v",
-    "featured": true
   },
   {
     "title": "Heavy Metal",
