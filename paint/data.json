@@ -1,13 +1,5 @@
 [
   {
-    "title": "Classic",
-    "description": "It's classic but also full of surprises",
-    "previewImage": "/paint/images/preview.classic.png",
-    "brushImage": "/paint/images/brush.classic.png",
-    "glifId": "clju3xg3a0008ml0876rogr3v",
-    "featured": true
-  },
-  {
     "title": "Spider-Verse",
     "description": "Amazing Multiverse Arachnid Juice",
     "previewImage": "/paint/images/preview.spiderverse.png",
@@ -20,6 +12,14 @@
     "previewImage": "/paint/images/preview.pokemon.png",
     "brushImage": "/paint/images/brush.pokemon.png",
     "glifId": "clgcdxxim0000l4081dvtegoy"
+  },
+  {
+    "title": "Classic",
+    "description": "It's classic but also full of surprises",
+    "previewImage": "/paint/images/preview.classic.png",
+    "brushImage": "/paint/images/brush.classic.png",
+    "glifId": "clju3xg3a0008ml0876rogr3v",
+    "featured": true
   },
   {
     "title": "Heavy Metal",
