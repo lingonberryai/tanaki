@@ -1,5 +1,20 @@
 [
   {
+    "title": "Chrimbus",
+    "description": "Ho ho ho's in different area codes",
+    "previewImage": "/paint/images/preview.medieval.png",
+    "brushImage": "/paint/images/brush.chrimbus.png",
+    "glifId": "clpz5365h001y128l8cs5elzt"
+  },
+  {
+    "title": "Classic",
+    "description": "It's classic but also full of surprises",
+    "previewImage": "/paint/images/preview.classic.png",
+    "brushImage": "/paint/images/brush.classic.png",
+    "glifId": "clju3xg3a0008ml0876rogr3v",
+    "featured": true
+  },
+  {
     "title": "Spider-Verse",
     "description": "Amazing Multiverse Arachnid Juice",
     "previewImage": "/paint/images/preview.spiderverse.png",
@@ -14,26 +29,10 @@
     "glifId": "clgcdxxim0000l4081dvtegoy"
   },
   {
-    "title": "Classic",
-    "description": "It's classic but also full of surprises",
-    "previewImage": "/paint/images/preview.classic.png",
-    "brushImage": "/paint/images/brush.classic.png",
-    "glifId": "clju3xg3a0008ml0876rogr3v",
-    "featured": true
-  },
-  {
-    "title": "Heavy Metal",
-    "description": "shred it",
-    "previewImage": "/paint/images/preview.medieval.png",
-    "brushImage": "/paint/images/brush.heavy-metal.png",
-    "glifId": "clgh1vxtu0011mo081dplq3xs"
-  },
-  {
     "title": "Shrekify",
     "description": "Matcha colored ogre energy",
     "previewImage": "/paint/images/preview.shrekify.png",
     "brushImage": "/paint/images/brush.shrekify.png",
     "glifId": "cljul1nbh0006mn088haew3mh"
   }
-
 ]
