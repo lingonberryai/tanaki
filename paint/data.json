@@ -7,6 +7,13 @@
     "glifId": "clpz5365h001y128l8cs5elzt"
   },
   {
+    "title": "Ball",
+    "description": "Make it round & puffy!",
+    "previewImage": "/paint/images/preview.medieval.png",
+    "brushImage": "/paint/images/brush.ball.png",
+    "glifId": "clqnf3ou9000ajbrsfmjkk5ui"
+  },
+  {
     "title": "Classic",
     "description": "It's classic but also full of surprises",
     "previewImage": "/paint/images/preview.classic.png",
