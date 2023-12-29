@@ -1,32 +1,18 @@
 [
   {
-    "title": "Chrimbus",
-    "description": "Ho ho ho's in different area codes",
-    "previewImage": "/paint/images/preview.medieval.png",
-    "brushImage": "/paint/images/brush.chrimbus.png",
-    "glifId": "clpz5365h001y128l8cs5elzt"
-  },
-  {
-    "title": "Ball",
-    "description": "Make it round & puffy!",
-    "previewImage": "/paint/images/preview.medieval.png",
-    "brushImage": "/paint/images/brush.ball.png",
-    "glifId": "clqnf3ou9000ajbrsfmjkk5ui"
-  },
-  {
-    "title": "Lego",
-    "description": "Make it round & puffy!",
-    "previewImage": "/paint/images/preview.medieval.png",
-    "brushImage": "/paint/images/brush.lego.png",
-    "glifId": "clqnfk4rt0008ukrc8jfndkev"
-  },
-  {
     "title": "Classic",
     "description": "It's classic but also full of surprises",
     "previewImage": "/paint/images/preview.classic.png",
     "brushImage": "/paint/images/brush.classic.png",
     "glifId": "clju3xg3a0008ml0876rogr3v",
     "featured": true
+  },
+  {
+    "title": "Lugo",
+    "description": "Make it round & puffy!",
+    "previewImage": "/paint/images/preview.medieval.png",
+    "brushImage": "/paint/images/brush.lego.png",
+    "glifId": "clqnfk4rt0008ukrc8jfndkev"
   },
   {
     "title": "Spider-Verse",
