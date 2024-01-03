@@ -7,6 +7,34 @@
     "glifId": "cllmnyseu0000l80ftt8u6k5o"
   },
   {
+    "title": "Lugo",
+    "description": "Make it round & puffy!",
+    "previewImage": "/paint/images/preview.medieval.png",
+    "brushImage": "/paint/images/brush.lego.png",
+    "glifId": "clqnfk4rt0008ukrc8jfndkev"
+  },
+  {
+    "title": "Piderman",
+    "description": "Amazing Multiverse Arachnid Juice",
+    "previewImage": "/paint/images/preview.spiderverse.png",
+    "brushImage": "/paint/images/brush.spiderverse.png",
+    "glifId": "clj3jm9il0000jx083oyk0jz1"
+  },
+  {
+    "title": "PokéMaker",
+    "description": "who dat pokémon?",
+    "previewImage": "/paint/images/preview.pokemon.png",
+    "brushImage": "/paint/images/brush.pokemon.png",
+    "glifId": "clgcdxxim0000l4081dvtegoy"
+  },
+  {
+    "title": "Shrekify",
+    "description": "Matcha colored ogre energy",
+    "previewImage": "/paint/images/preview.shrekify.png",
+    "brushImage": "/paint/images/brush.shrekify.png",
+    "glifId": "cljul1nbh0006mn088haew3mh"
+  },
+  {
     "title": "Dali",
     "description": "Amazing Multiverse Arachnid Juice",
     "previewImage": "/paint/images/preview.spiderverse.png",
