@@ -48,33 +48,5 @@
     "previewImage": "/paint/images/preview.shrekify.png",
     "brushImage": "/paint/images/brush.shrekify.png",
     "glifId": "cljul1nbh0006mn088haew3mh"
-  },
-  {
-    "title": "Hand Sketch",
-    "description": "Amazing Multiverse Arachnid Juice",
-    "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.hand-sketch.png",
-    "glifId": "cllmo93z30021ju0f5nvm499f"
-  },
-  {
-    "title": "Crayon",
-    "description": "Amazing Multiverse Arachnid Juice",
-    "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.crayon.png",
-    "glifId": "cllmochoy000wl30fsr2fivse"
-  },
-  {
-    "title": "Caveman",
-    "description": "Amazing Multiverse Arachnid Juice",
-    "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.caveman.png",
-    "glifId": "cllmoha2d0007l80fdqcj1skb"
-  },
-  {
-    "title": "Ye Ole Times",
-    "description": "Amazing Multiverse Arachnid Juice",
-    "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.ye-ole-times.png",
-    "glifId": "cllmojhqg002iju0fvmrt2mvb"
   }
 ]
