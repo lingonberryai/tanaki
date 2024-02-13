@@ -1,19 +1,5 @@
 [
   {
-    "title": "Trippy",
-    "description": "Amazing Multiverse Arachnid Juice",
-    "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.trippy.png",
-    "glifId": "cllmnyseu0000l80ftt8u6k5o"
-  },
-  {
-    "title": "Dali",
-    "description": "Amazing Multiverse Arachnid Juice",
-    "previewImage": "/paint/images/preview.spiderverse.png",
-    "brushImage": "/paint/images/brush.dali.png",
-    "glifId": "clqw8z69u0006l5li3y5vprt3"
-  },
-  {
     "title": "Classic",
     "description": "It's classic but also full of surprises",
     "previewImage": "/paint/images/preview.classic.png",
