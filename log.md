@@ -1,3 +1,8 @@
+# 2024-05-26 03:30:24
+Author: @psql
+Mental notes about each user as prototyped in the soul engine's "learnsAboutUser.ts" is a compelling offering for Hosts. Inferred profiles about each guest the Host interacts with. Imagine this exposed in a cool dashboard for the brands to review and understand each viewer through the eyes of the Host. The humans could manually adjust each profile to create richer experiences. A sort of human in the loop fine tuning.
+
+
 # 2024.05.24
 Author: @psql
 I'm house sitting my pal Roz + Joel place in Queensland Australia. They're hella into home automation. Been thinking about how we could add Tanaki into the home to be a doper interface than Google or Apple's disembodied voice vibe.
