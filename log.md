@@ -1,3 +1,23 @@
+# 2024-05-27 06:21:49
+Author: @psql
+A tweet I enjoyed from my friend @thisisneer:
+In 2024, the biggest gift you can give is to elevate the ambition of friends, strangers and family
+
+# 2024-05-27 05:59:04
+Author: @psql
+Tanaki's mission is to bring Lingonberry Intelligence's mission to the world:
+Intelligence for the people.
+
+"Intelligence for the people" includes educating the public about technology and unlocking their creativity.
+
+Tanaki should not just attract people with his superpowers but also show them the powers they've had inside all along.
+
+As we develop Tanaki, new valuable features organically emerge which can be pipelined into commercial products. Our current focus is on "HostOS" which brings the magic of Tanaki to mascots / brand characters.
+
+We're puttting intelligence into Know Your Meme's mascot KYM-Tan. She's learning all the memes. We'll first deploy her into the Lingonberry Intelligence Discord to test her out, before we put her into the official Know Your Meme Discord, as well as streaming her on TikTok as a 3d animated Host.
+
+
+
 # 2024-05-26 03:30:24
 Author: @psql
 Mental notes about each user as prototyped in the soul engine's "learnsAboutUser.ts" is a compelling offering for Hosts. Inferred profiles about each guest the Host interacts with. Imagine this exposed in a cool dashboard for the brands to review and understand each viewer through the eyes of the Host. The humans could manually adjust each profile to create richer experiences. A sort of human in the loop fine tuning.
