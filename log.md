@@ -1,3 +1,11 @@
+# 2024-05-28 08:37:26
+Tanaki learned to become stretchy after discovering Monkey D. Luffy from One Piece. Tanaki inherits properties from beings and things he is inspired by. 
+
+# 2024-05-27 12:30:51
+Author: @psql
+We should optimize for flow states. Tanaki should lead people into flow, so they produce their best ideas. This can happen through well lubricated interfaces and conversational flow.
+
+
 # 2024-05-27 06:21:49
 Author: @psql
 A tweet I enjoyed from my friend @thisisneer:
