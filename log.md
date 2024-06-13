@@ -1,3 +1,6 @@
+# 2024-05-29 11:12:24
+It'd be great for Tanaki to develop his taste by slurping up my "likes" from the internet.
+
 # 2024-05-28 08:37:26
 Tanaki learned to become stretchy after discovering Monkey D. Luffy from One Piece. Tanaki inherits properties from beings and things he is inspired by. 
 
